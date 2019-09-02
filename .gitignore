@@ -1,0 +1,7 @@
+dist/
+
+react-app/node_modules/
+vue-app/node_modules/
+
+react-app/yarn-error.log
+vue-app/yarn-error.log
